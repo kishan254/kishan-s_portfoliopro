@@ -7,6 +7,10 @@ This is my portfolio which I created using react.js
 
 This is an app I created using the react.js framework in which I have added my resume, and my contact details for potential clients to reach me
 
+`LINK`
+
+[HEROKU] (https://kishan-portfolio-pro-au.herokuapp.com/)
+
 
 - VIDEO OF WALKTHROUGH is below
 
